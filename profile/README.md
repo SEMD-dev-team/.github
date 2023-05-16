@@ -49,6 +49,9 @@ For bugs and standard issue tickets, please open a pull request.
 
 To contribute to the project, please clone the repository and install the dependencies.
 
+For feature requests and bug fixes, please open a standard issue ticket
+
+
 ## Git Workflow
 
 ```bash
